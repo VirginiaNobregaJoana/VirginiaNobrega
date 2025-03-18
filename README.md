@@ -1,5 +1,3 @@
-# Olá, eu sou a Virgínia Nóbrega!
-
 # Olá Mundo, eu sou a Virgínia Nóbrega!
 
 - 👩🏼‍💻Atualmente sou Engenheira de Dados
